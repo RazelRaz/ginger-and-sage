@@ -1,0 +1,51 @@
+.app_gallery {
+    background-color: var(--color-black);
+    display: flex;
+    flex-direction: row;
+    padding: 4rem 0 4rem 6rem;
+}
+
+.app__gallery-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+
+    min-width: 500px;
+    padding-right: 2rem;
+}
+
+.app__gallery-content button {
+    margin-top: 1rem;
+}
+
+.app_gallery-images {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    max-width: 50%;
+    position: relative;
+}
+
+.app_gallery-images_container {
+    display: flex;
+    flex-direction: row;
+    width: max-content;
+    overflow-x: scroll;
+    -ms-overflow-style: none;
+    scrolbar-width:none;
+}
+ 
+.app_gallery-images_container::-webkit-scrolbar {
+    display: none;
+}
+
+.disWhyChoose_body .whych_left
+{
+    width: 100% !important
+}
+
+.disWhyChoose .container {
+    width:100% !Important;
+    }
