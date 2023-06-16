@@ -36,7 +36,10 @@ We appreciate bug reports, feature requests, and pull requests from the communit
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code in accordance with the terms of the license.
 
+
+
 ## Live URL
 
-Check out the live version of Ginger and Sage at [https://fanciful-froyo-3403c0.netlify.app/](https://fanciful-froyo-3403c0.netlify.app/).
+Check out the live version of Ginger and Sage at [URL](https://fanciful-froyo-3403c0.netlify.app/).
+
 
