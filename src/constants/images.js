@@ -21,6 +21,7 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import ginger from '../assets/ginger.png';
+import gingerFooter from '../assets/GINGER & SAGE.png'
 
 export default {
   bg,
@@ -46,4 +47,5 @@ export default {
   sign,
   quote,
   ginger,
+  gingerFooter
 };
