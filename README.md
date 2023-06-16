@@ -23,4 +23,20 @@ git clone https://github.com/your-username/ginger-and-sage.git
 
 ## Screenshots
 
-![Screenshot 1](https://prnt.sc/ADX06qAOZv0b)
+![Screenshot_1](https://github.com/RazelRaz/ginger-and-sage/assets/48205844/fd2ec946-b7c2-4558-81b6-54cd9b98e8fd)
+
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to Ginger and Sage, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+We appreciate bug reports, feature requests, and pull requests from the community. By working together, we can make Ginger and Sage even better.
+
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code in accordance with the terms of the license.
+
+## Live URL
+
+Check out the live version of Ginger and Sage at [https://fanciful-froyo-3403c0.netlify.app/](https://fanciful-froyo-3403c0.netlify.app/).
+
