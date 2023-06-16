@@ -12,3 +12,15 @@ Welcome to Ginger and Sage, a modern restaurant one-page app built using React. 
 
 - **CSS BEM Model:** Following the CSS BEM (Block Element Modifier) model, Ginger and Sage ensures consistent and structured styling. This approach promotes modular, reusable, and scalable CSS code, facilitating easy maintenance of stylesheets.
 
+## Usage
+
+1. Clone the Ginger and Sage repository.
+git clone https://github.com/your-username/ginger-and-sage.git
+
+2. Install dependencies using npm.
+3. Run the app locally.
+4. Access the app in your browser at [http://localhost:3000](http://localhost:3000).
+
+## Screenshots
+
+![Screenshot 1](https://prnt.sc/ADX06qAOZv0b)
