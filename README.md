@@ -2,6 +2,12 @@
 
 Welcome to Ginger and Sage, a modern restaurant one-page app built using React. This project aims to provide an intuitive and visually appealing online experience for restaurant visitors.
 
+## NPM package installed:
+- ** react-icons
+
+## css BEM model
+## Figma [URL](https://ui8.net/)
+
 ## Features
 
 - **React Functional Components:** Ginger and Sage leverages the power of React functional components, allowing for enhanced reusability and maintainability of code.
